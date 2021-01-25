@@ -43,7 +43,7 @@ Authors:
     'website': 'http://www.trescloud.com',
     'license': 'OEEL-1',
     'depends': [
-        'l10n_latam_invoice_document_tree',
+        'l10n_latam_invoice_document',
         'l10n_latam_base',
         'account_tax_python',
     ],   
